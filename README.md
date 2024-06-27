@@ -1,4 +1,3 @@
-# Simple-Calculator
 Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
@@ -9,3 +8,4 @@ Welcome
 ### SIMPLE CALCULATOR
 
 <a href="https://u7p4l-in.github.io/simple-calculator/"><strong>➥ Live Demo</strong></a>
+
